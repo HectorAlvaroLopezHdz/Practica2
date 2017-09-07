@@ -1,0 +1,2 @@
+C:\Users\Hector\source\repos\App3\App3\App3.UWP\App3.UWP.csproj;x86
+C:\Users\Hector\source\repos\App3\App3\App3\App3.csproj;neutral

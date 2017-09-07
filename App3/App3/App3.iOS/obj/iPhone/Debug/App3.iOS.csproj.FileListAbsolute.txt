@@ -1,0 +1,8 @@
+C:\Users\Hector\source\repos\App3\App3\App3.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Hector\source\repos\App3\App3\App3.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\Hector\source\repos\App3\App3\App3.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Hector\source\repos\App3\App3\App3.iOS\obj\iPhone\Debug\optimized\
+C:\Users\Hector\source\repos\App3\App3\App3.iOS\obj\iPhone\Debug\App3.iOS.csprojResolveAssemblyReference.cache
+C:\Users\Hector\source\repos\App3\App3\App3.iOS\obj\iPhone\Debug\App3.iOS.csproj.CoreCompileInputs.cache
+C:\Users\Hector\source\repos\App3\App3\App3.iOS\obj\iPhone\Debug\App3.iOS.exe
+C:\Users\Hector\source\repos\App3\App3\App3.iOS\obj\iPhone\Debug\App3.iOS.pdb
