@@ -22263,12 +22263,12 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hector\\source\\repos\\App3\\App3\\App3.UWP\\App3.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\Hector\\source\\repos\\Practica2\\App3\\App3\\App3.UWP\\App3.UWP.csproj",
       "projectName": "App3.UWP",
-      "projectPath": "C:\\Users\\Hector\\source\\repos\\App3\\App3\\App3.UWP\\App3.UWP.csproj",
-      "projectJsonPath": "C:\\Users\\Hector\\source\\repos\\App3\\App3\\App3.UWP\\project.json",
+      "projectPath": "C:\\Users\\Hector\\source\\repos\\Practica2\\App3\\App3\\App3.UWP\\App3.UWP.csproj",
+      "projectJsonPath": "C:\\Users\\Hector\\source\\repos\\Practica2\\App3\\App3\\App3.UWP\\project.json",
       "packagesPath": "C:\\Users\\Hector\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hector\\source\\repos\\App3\\App3\\App3.UWP\\obj\\",
+      "outputPath": "C:\\Users\\Hector\\source\\repos\\Practica2\\App3\\App3\\App3.UWP\\obj\\",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
         "C:\\Users\\Hector\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22281,8 +22281,8 @@
       "frameworks": {
         "uap10.0.10586": {
           "projectReferences": {
-            "C:\\Users\\Hector\\source\\repos\\App3\\App3\\App3\\App3.csproj": {
-              "projectPath": "C:\\Users\\Hector\\source\\repos\\App3\\App3\\App3\\App3.csproj"
+            "C:\\Users\\Hector\\source\\repos\\Practica2\\App3\\App3\\App3\\App3.csproj": {
+              "projectPath": "C:\\Users\\Hector\\source\\repos\\Practica2\\App3\\App3\\App3\\App3.csproj"
             }
           }
         }

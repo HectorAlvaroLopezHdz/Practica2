@@ -11,16 +11,23 @@
                HorizontalOptions="Center"
                VerticalOptions="Center"
                />
+       
         <Image Source="logo.png" 
                />
         <Label Text="Hector Alvaro Lopez Hernandez"
                HorizontalOptions="Center"
                VerticalOptions="Center"
                />
+        <Label Text="13090305"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               />
         <Button Text="Boton"
                 VerticalOptions="Center"
                 HorizontalOptions="Center"
-                TextColor="DarkCyan"
+                TextColor="DarkCyan" 
+                Clicked="Button_Clicked"
+                
                 ></Button>
       
     </StackLayout>
